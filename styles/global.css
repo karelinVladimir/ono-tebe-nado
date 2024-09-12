@@ -20,7 +20,8 @@ p,
 ul,
 ol,
 li,
-blockquote {
+blockquote,
+menu {
   margin: 0;
   padding: 0;
 }
